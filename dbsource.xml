@@ -1,0 +1,10 @@
+<datasources Repository='sourcerepo'>
+	<datasource name='dbsource' id='2' type='db'>
+	<dbconnect>
+		<username>giannis</username>
+		<password>giannis</password>
+		<request 'unused tag'>
+		<database>redis2
+	</dbconnect>
+	</datasource>
+</datasources>

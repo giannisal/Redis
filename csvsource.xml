@@ -1,0 +1,7 @@
+<datasources Repository='sourcerepo'>
+	<datasource name='csvsource' id='0' type='csv'>
+		<filename>csvdata.csv</filename>
+		<path>.</path>
+		<delimiter>,</delimiter>
+	</datasource>
+</datasources>

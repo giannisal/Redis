@@ -1,0 +1,6 @@
+<datasources Repository='sourcerepo'>
+	<datasource name='excelsource' id='1' type='excel'>
+	<filename>exceldata.xlsx</filename>
+	<path>.</path>
+	</datasource>
+</datasources>
